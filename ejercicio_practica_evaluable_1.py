@@ -93,3 +93,4 @@ if __name__ == "__main__":
     animar_simulacion(historial, titulo="Difusión de calor en placa 2D")
 
     comparar_materiales()
+dshjfwefhjwedhjNEDWBEDMN
